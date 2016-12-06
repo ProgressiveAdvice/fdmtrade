@@ -12,8 +12,8 @@
 				<!--link type="text/css" media="all" src="assets/style.css" /-->
 			<link rel="stylesheet" type="text/css" media="all" href="assets/custom.css" />
 		</head>
-			<body class="maintenance-page in-maintenance no-sidebars">
-				<header class="header-image">
+			<body>
+				<div class="main-container">
 					<nav class="navbar navbar-default fdm-nav" role="navigation">
 						<div class="container">
 
@@ -45,52 +45,10 @@
 							</div>
 						</div>
 					</nav>
-
-				</header>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				<div class="container">
-					<div id="header">
-						<div id="logo-title">
-
-							<a href="/" title="Címlap" rel="home" id="logo">
-								<img src="assets/image/header.jpg" alt="Címlap" />
-							</a>
-							<div id="name-and-slogan">
-								<h1 id="site-name">
-									<a href="/" title="Címlap" rel="home">
-										<span>fdmtrade.hu</span>
-									</a>
-								</h1>
-
-							</div>
-							<!-- /name-and-slogan -->
-						</div>
-						<!-- /logo-title -->
-
-
+					
+					<div class="container main-content">
+						<img src="http://placekitten.com/g/200/300" />
 					</div>
-					<!-- /header -->
-
-					<div id="content">
-	content
-					</div>
-					<!-- Egyforma magasság -->
-					<div style="clear:both;"/>
 				</div>
 
 
