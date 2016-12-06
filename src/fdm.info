@@ -1,7 +1,0 @@
-name = FDM Trade Kft Theme
-core = 7.x
-engine = phptemplate
-stylesheets[all][] = style.css
-
-regions[menu] = Menu
-regions[content] = Content
