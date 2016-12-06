@@ -1,3 +1,19 @@
-.fityfasz {
-	text-decoration: underline;
+body {
+	width: 1100px;
+	margin: 0 auto;
+}
+
+.header-image{
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url("images/header.jpg");
+	height: 350px;
+}
+
+.fdm-nav {
+	margin: 0 auto;
+	width: 95%;
+	-webkit-box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.75);
 }
