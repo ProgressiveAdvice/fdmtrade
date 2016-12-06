@@ -7,11 +7,11 @@
 			<link rel="shortcut icon" href="images/FDM.ico" type="image/vnd.microsoft.icon" />
 			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
 				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
+				<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
 				integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 				<!--link type="text/css" media="all" src="assets/style.css" /-->
-			<link rel="stylesheet" type="text/css" media="all" href="assets/custom.css" />
-		</head>
+				<link rel="stylesheet" type="text/css" media="all" href="assets/custom.css" />
+			</head>
 			<body>
 				<div class="main-container">
 					<nav class="navbar navbar-default fdm-nav" role="navigation">
@@ -45,66 +45,50 @@
 							</div>
 						</div>
 					</nav>
-					
+
 					<div class="container main-content">
 						<img src="http://placekitten.com/g/200/300" />
+						<br />
+					</div>
+
+					<div class="footer">
+						<div id="footer">
+							<br />
+							<br />
+							<br />
+							<br />
+							<br />
+							<p align="right">Fdm Trade Kft.
+								<br />
+  4220 Hajdúböszörmény, Ipartelep u. 18-20.
+								<br />
+	Adószám: 25019995-2-09
+								<br />
+  Cégjegyzékszám: 09-09-026349
+								<br />
+								<br />
+  E-mail: info@farmmix.hu
+								<br />
+	Web: www.farmmix.hu</p>
+							<br />
+							<br />
+						</div>
+
+
+
+
+						<div id="footer-lent">
+							<center>	
+								<p>
+	Copyright © 2016 - Minden jog fenntartva.
+									<br />
+									<br />
+								</p>
+							</center>	
+						</div>
 					</div>
 				</div>
-
-
-				<div id="footer">
-					<font color="white">
-						<br>
-							<br>
-								<br>
-									<br>
-										<br>
-											<p align="right">Fdm Trade Kft.
-												<br>
-  4220 Hajdúböszörmény, Ipartelep u. 18-20.
-													<br>
-	Adószám: 25019995-2-09
-														<br>
-  Cégjegyzékszám: 09-09-026349
-															<br>
-																<br>
-  E-mail: info@farmmix.hu
-																	<br>
-	Web: www.farmmix.hu</p>
-																	<br>
-																		<br>
-																		</div>
-
-
-
-
-																		<div id="footer-lent">
-																			<center>
-																				<font color="white">	
-																					<p>
-	Copyright © 2016 - Minden jog fenntartva.
-																						<br>
-																							<br>
-																							</p>
-																						</center>	
-																					</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-																					<!-- <div id="footer">
-  </div>-->
-																				</div>
-																				<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"/>
-																				<script type="text/javascript" src="active.js"/>
-																			</body>
-																		</html>
+				<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"/>
+				<script type="text/javascript" src="active.js"/>
+			</body>
+		</html>

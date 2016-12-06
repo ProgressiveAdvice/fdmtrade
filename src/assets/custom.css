@@ -4,10 +4,10 @@ body {
 }
 
 .main-container{
-	background-position: center;
-	background-repeat: no-repeat;
-	background-image: url("images/header.jpg");
-	height: 350px;
+	background-position: center top, center bottom;
+	background-repeat: no-repeat, no-repeat;
+	background-image: url("images/header.jpg"), url("images/footer2.jpg");
+	
 }
 
 .fdm-nav {
@@ -19,9 +19,9 @@ body {
 }
 
 .main-content {
-	margin: 250px auto 0;
+	margin: 250px auto 40px;
 	width: 95%;
-	padding: 10px;
+	padding: 20px;
 	background-color: white;
 	-webkit-box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.75);
 	-moz-box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.75);
