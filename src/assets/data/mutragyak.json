@@ -1,0 +1,20 @@
+{
+	"title": "Mûtrágyák",
+	"url": "mutragyak",
+	"image": "mutragyak.jpg",
+	"products": [
+		{
+			"name": "Szuper trágya",
+			"url": "szuper_tragya",
+			"images": [
+				"szuper_tragya.jpg"			
+			]		
+		},
+		{
+			"name": "Gigamega trágya",
+			"description": "Mindent visz!!!444",
+			"url": "gigamega_tragya",
+			"images": []			
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"title": "Növényvédõ szerek",
+	"url": "novenyvedo_szerek",
+	"image": "novszer.jpg",
+	"products": [
+		{
+			"name": "Gladiator 480 SL",
+			"url": "gladiator",
+			"images": [
+				"gladiator1.jpg",
+				"gladiator2.jpg"
+			]		
+		},
+		{
+			"name": "XYZ",
+			"description": "Az XYZ növényvédõszer a legszuperebb",
+			"url": "xyz",
+			"images": [
+				"xyz.jpg"
+			]			
+		}
+	]
+}
