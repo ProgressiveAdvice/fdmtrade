@@ -1,7 +1,7 @@
 version: '2'
 services: 
   app:
-    image: php:5.6-apache
+    build: app_provision
     volumes_from:
      - data
     ports:
