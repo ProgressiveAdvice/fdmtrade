@@ -28,6 +28,19 @@ body {
 	box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.75);
 }
 
+.contact-column {
+	float: left;
+	width: 33%;
+}
+
+.contact-column h1 {
+	min-height: 50px;
+}
+
+.contact-column h3 {
+	min-height: 50px;
+}
+
 .footer-text {
 	margin: 0 auto 150px;
 	width: 95%;

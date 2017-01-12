@@ -2,12 +2,12 @@
 	RewriteEngine on
 	RewriteBase /
 		
-	RewriteCond %{REQUEST_URI}                    termekek$
-	RewriteRule ^termekek$        termekcategorylist.php
-		
 	RewriteCond %{REQUEST_URI}                    termekek/([a-zA-Z0-9_-]+)$
 	RewriteRule ^termekek/([a-zA-Z0-9_-]+)$        termekcategory.php?category=$1
 	
 	RewriteCond %{REQUEST_URI}                    termekek/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$
 	RewriteRule ^termekek/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$        termek.php?category=$1&product=$2
+	
+	RewriteCond %{REQUEST_URI}                    ([a-zA-Z0-9_-]+)$
+	RewriteRule ^([a-zA-Z0-9_-]+)$        $1.php
 </IfModule>	
